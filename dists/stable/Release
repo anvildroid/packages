@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sun, 08 Nov 2026 18:47:32 +0000
+Description: AnvilDroid — Waydroid manager for Linux
+Label: AnvilDroid
+Origin: AnvilDroid
+Suite: stable
+MD5Sum:
+ 3369f469bc18457d402d342e5d62769b              199 Release
+ 28d5f5b301537696c9b5b0bee85e9091             1139 main/binary-amd64/Packages
+ 5cbbe627b9131f0ef3f83f5c9355a3ce              694 main/binary-amd64/Packages.gz
+SHA1:
+ e9a7d2755f3fe931d6c8506c5219de08b10e2df8              199 Release
+ d520f6cf60d3bd047edc9a9794fc0be30f9f9f94             1139 main/binary-amd64/Packages
+ e170ad2224ed6019ace7d7272da97263d85bd377              694 main/binary-amd64/Packages.gz
+SHA256:
+ 86e2091013006a018aed4079b00eeb31540073e5a11365bde936dccd1c550712              199 Release
+ c15aa84d9f6753556b481fcc31e5f6a9df30f3fd1f719aaef1659c1dca65b642             1139 main/binary-amd64/Packages
+ 993d33c06289e7082af27fb8a3428a87792e45269e4205fa1d358a35d8dc0ab1              694 main/binary-amd64/Packages.gz
+SHA512:
+ 7906347436e22112ad188a9a92f77417bb4deab0a75cd6214dd434b39524b5fe2d95ad963eca04b0a4344061693fb6dde0c4480f30495d748826bd82c0a7305d              199 Release
+ 0eb746b9219d4b85373a42f3480fe0922edc7471d0dfba93a2021e0cd099cd8be9654284a80198e12087772ce0fb94844d72837c583a8f649fc256143b9aff78             1139 main/binary-amd64/Packages
+ 84e8fdad0d1f2a8332bae031b8abedbc21a8a3af9344a85c969f2663bc13ccf1cba91449375888ea5fcf181d6872b86bfecc8c5122087174df9ca3b87f7a1a0d              694 main/binary-amd64/Packages.gz
