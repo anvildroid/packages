@@ -15,3 +15,20 @@ Priority: optional
 Description: AnvilDroid GUI, CLI and Android runtime controller
  GPU accelerated Waydroid runtime controller with BinderFS, Wayland and native X11 support.
 
+Package: anvildroid-controller
+Version: 0.1.9
+Architecture: amd64
+Maintainer: AnvilDroid
+Pre-Depends: python3
+Depends: libc6 (>= 2.39), libepoxy0, libdrm2, libgbm1, libx11-6, libxcb1, libegl1, libgles2, libwayland-server0, libxkbcommon0, libxcursor1, libxi6, libxfixes3, libxext6, libxrandr2, libxss1, libstdc++6, libgcc-s1, libexpat1, libvulkan1, util-linux, mount, iproute2, nftables, slirp4netns, lxc, kmod, curl, python3, default-jre-headless (>= 2:1.17), systemd, patchelf (>= 0.18), libwebkit2gtk-4.1-0, libgtk-3-0, libglib2.0-0, libjavascriptcoregtk-4.1-0, libsoup-3.0-0, libpango-1.0-0, libcairo2, libgdk-pixbuf-2.0-0, libayatana-appindicator3-1 | libappindicator3-1
+Recommends: adb
+Filename: pool/main/a/anvildroid-controller/anvildroid-controller_0.1.9_amd64.deb
+Size: 26943686
+MD5sum: d5b0b1924c2c40406cde7b3dd90eaa02
+SHA1: 4abe6e57560aa3e72a622ec2ef945e2e899cb803
+SHA256: 942989e86757c9d43103a1fd0a3410609b7d67a61ba250c4054e0f2cde2361aa
+Section: misc
+Priority: optional
+Description: AnvilDroid GUI, CLI and Android runtime controller
+ GPU accelerated Waydroid runtime controller with BinderFS, Wayland and native X11 support.
+
