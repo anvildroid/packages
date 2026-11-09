@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Mon, 09 Nov 2026 03:55:03 +0000
+Date: Mon, 09 Nov 2026 09:11:06 +0000
 Description: AnvilDroid — Waydroid manager for Linux
 Label: AnvilDroid
 Origin: AnvilDroid
 Suite: stable
 MD5Sum:
- 642a6d7f178db064dc6f4059b122bb8f              199 Release
- a985bf202e2bf006ad89de2f0ee5deac             3419 main/binary-amd64/Packages
- 38193f636db226179cdfbd101fd5cf26              940 main/binary-amd64/Packages.gz
+ a56c6bcd897820009fb34bfa53836859              199 Release
+ c6a156f5e3b3a4206d87b9426dfd0584             3421 main/binary-amd64/Packages
+ 055f29f1a4319311a41e2bcc28c804b3              941 main/binary-amd64/Packages.gz
 SHA1:
- adfd88ef09cea97b2cc0c8edaac02b24979e6594              199 Release
- 5abded8a2985d7236acdb064bcce4919dd474b74             3419 main/binary-amd64/Packages
- 1bce7e6b36324ef3bcec301b10d7967ad0aac8af              940 main/binary-amd64/Packages.gz
+ f6f5dc6b8a0f04e34cd28b3d40af00d544e60806              199 Release
+ 71b75423665995508e67942e650a5a2eba76e2e5             3421 main/binary-amd64/Packages
+ 19881d5f91fb7c86d150bcf2ba8085f1b057f52f              941 main/binary-amd64/Packages.gz
 SHA256:
- 681145afb3201c308b854c905f48480ff0a389b5e5d81f55888dafbd86c59da3              199 Release
- 5fc9be3e08ef82d41b2a9d2bc42fdd8007c486c1f6288bbf789b0391602f60ab             3419 main/binary-amd64/Packages
- d030fb4bd12524382163e23143cd8e756cf64cda02c56e52eb03d0ad8e7b8df7              940 main/binary-amd64/Packages.gz
+ 0294f140643804d20001d7752eeb49ea1a2d595acf2079c7e6ca901e7264d68d              199 Release
+ 568d9e0f5efc1d8a3c12bff6f89940b37fdbab1020cca20165d8969b11d3a80a             3421 main/binary-amd64/Packages
+ 494be276a0cdb56183622645bab200c486362c1587aa0ef35bc532d7dc4703ef              941 main/binary-amd64/Packages.gz
 SHA512:
- bca4a4e8c1fbd74e44657e751410129c112700f943e52ed3e07fba33c65431963c3457316a69c90f7cbc2a6777e15c7c229ea2d09e05bb5e1ecb617258c748d4              199 Release
- 19b27abc20dcc651a516b1c41e8ac0bd78df5c880429c24aa41c9910bee90a555dc85b9b8b99b51c9c639b93c858de9666b82990dc7e351220f49b34b1a0d6f6             3419 main/binary-amd64/Packages
- 06344389e81394eba0aadf9cb7f0d079c1dd2f865605b9ff2ef196f19f5de51773be3f3dc266f3246ecfbe7e39c410ac5888aaca386b1ebafb7fe6c9bb4e1ccb              940 main/binary-amd64/Packages.gz
+ e3317bace43cc0d8bc73ef6ce1f4013753c79b316d64fb620ae0ce31e96a530cbb3165a7358cccfdf2c747af7dcea9cc063982a31e82febe6779b62ff179cce3              199 Release
+ 7cc3352d148973e865904ed4da90fae76ed312318e15fc282d5a2a179e3d3baa49c87d6f39c7924a1aca7548d7e14159ed5217b6882b3db023c7f787aef0fed5             3421 main/binary-amd64/Packages
+ e5f42ac28c99920a55450ca08fbc64ad1391caeec1186fc4c1dac044855e9f1cfea8e5fd18b748c8974cae44c2bfd97238da181215376b2ff032b8f6829c7a8d              941 main/binary-amd64/Packages.gz
