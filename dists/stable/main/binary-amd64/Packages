@@ -23,27 +23,10 @@ Pre-Depends: python3
 Depends: libc6 (>= 2.39), libepoxy0, libdrm2, libgbm1, libx11-6, libxcb1, libegl1, libgles2, libwayland-server0, libxkbcommon0, libxcursor1, libxi6, libxfixes3, libxext6, libxrandr2, libxss1, libstdc++6, libgcc-s1, libexpat1, libvulkan1, util-linux, mount, iproute2, nftables, slirp4netns, lxc, kmod, curl, python3, default-jre-headless (>= 2:1.17), systemd, patchelf (>= 0.18), libwebkit2gtk-4.1-0, libgtk-3-0, libglib2.0-0, libjavascriptcoregtk-4.1-0, libsoup-3.0-0, libpango-1.0-0, libcairo2, libgdk-pixbuf-2.0-0, libayatana-appindicator3-1 | libappindicator3-1
 Recommends: adb
 Filename: pool/main/a/anvildroid-controller/anvildroid-controller_0.1.11_amd64.deb
-Size: 26960844
-MD5sum: ae506c5796fb87a47b6106b37f79f8e4
-SHA1: 4d8a4f4ea0ac997d6e1fedd787c93638daea6ba5
-SHA256: 210b37867cabc0dfb8451736f447176c9ef2cb4992b0f1853d84e8503beae7f4
-Section: misc
-Priority: optional
-Description: AnvilDroid GUI, CLI and Android runtime controller
- GPU accelerated Waydroid runtime controller with BinderFS, Wayland and native X11 support.
-
-Package: anvildroid-controller
-Version: 0.1.9
-Architecture: amd64
-Maintainer: AnvilDroid
-Pre-Depends: python3
-Depends: libc6 (>= 2.39), libepoxy0, libdrm2, libgbm1, libx11-6, libxcb1, libegl1, libgles2, libwayland-server0, libxkbcommon0, libxcursor1, libxi6, libxfixes3, libxext6, libxrandr2, libxss1, libstdc++6, libgcc-s1, libexpat1, libvulkan1, util-linux, mount, iproute2, nftables, slirp4netns, lxc, kmod, curl, python3, default-jre-headless (>= 2:1.17), systemd, patchelf (>= 0.18), libwebkit2gtk-4.1-0, libgtk-3-0, libglib2.0-0, libjavascriptcoregtk-4.1-0, libsoup-3.0-0, libpango-1.0-0, libcairo2, libgdk-pixbuf-2.0-0, libayatana-appindicator3-1 | libappindicator3-1
-Recommends: adb
-Filename: pool/main/a/anvildroid-controller/anvildroid-controller_0.1.9_amd64.deb
-Size: 26943686
-MD5sum: d5b0b1924c2c40406cde7b3dd90eaa02
-SHA1: 4abe6e57560aa3e72a622ec2ef945e2e899cb803
-SHA256: 942989e86757c9d43103a1fd0a3410609b7d67a61ba250c4054e0f2cde2361aa
+Size: 26952526
+MD5sum: 0328cd7fa4c963177ece2ddc9b906017
+SHA1: 2d53720956351c02805ddbf25297d95a3ebf03c0
+SHA256: fd0a159d2d902e60984e05b01d043ec34604be89a5cf45ae269122b7cded35f1
 Section: misc
 Priority: optional
 Description: AnvilDroid GUI, CLI and Android runtime controller
