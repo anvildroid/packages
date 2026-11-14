@@ -1,21 +1,4 @@
 Package: anvildroid-controller
-Version: 0.1.10
-Architecture: amd64
-Maintainer: AnvilDroid
-Pre-Depends: python3
-Depends: libc6 (>= 2.39), libepoxy0, libdrm2, libgbm1, libx11-6, libxcb1, libegl1, libgles2, libwayland-server0, libxkbcommon0, libxcursor1, libxi6, libxfixes3, libxext6, libxrandr2, libxss1, libstdc++6, libgcc-s1, libexpat1, libvulkan1, util-linux, mount, iproute2, nftables, slirp4netns, lxc, kmod, curl, python3, default-jre-headless (>= 2:1.17), systemd, patchelf (>= 0.18), libwebkit2gtk-4.1-0, libgtk-3-0, libglib2.0-0, libjavascriptcoregtk-4.1-0, libsoup-3.0-0, libpango-1.0-0, libcairo2, libgdk-pixbuf-2.0-0, libayatana-appindicator3-1 | libappindicator3-1
-Recommends: adb
-Filename: pool/main/a/anvildroid-controller/anvildroid-controller_0.1.10_amd64.deb
-Size: 26945878
-MD5sum: 6a74ddedeb46a4ca7529bf9c05edd150
-SHA1: dea151cb77508bf647a38b492cae92965f965912
-SHA256: 49240f7746e0b1a4eae16033827ff604e3c9d9be8c990c7260512309acdf44c9
-Section: misc
-Priority: optional
-Description: AnvilDroid GUI, CLI and Android runtime controller
- GPU accelerated Waydroid runtime controller with BinderFS, Wayland and native X11 support.
-
-Package: anvildroid-controller
 Version: 0.1.11
 Architecture: amd64
 Maintainer: AnvilDroid
@@ -44,6 +27,23 @@ Size: 26981276
 MD5sum: b58ec9881a024c28dc2a3b26fddc565c
 SHA1: 13d4a51c5719667f2d4a6e8b013524de87c9afef
 SHA256: d8304655dd2f621d8fd389a1372f29064915bf3296c0ec364dca0294754baa3f
+Section: misc
+Priority: optional
+Description: AnvilDroid GUI, CLI and Android runtime controller
+ GPU accelerated Waydroid runtime controller with BinderFS, Wayland and native X11 support.
+
+Package: anvildroid-controller
+Version: 0.1.13
+Architecture: amd64
+Maintainer: AnvilDroid
+Pre-Depends: python3
+Depends: libc6 (>= 2.39), libepoxy0, libdrm2, libgbm1, libx11-6, libxcb1, libegl1, libgles2, libwayland-server0, libxkbcommon0, libxcursor1, libxi6, libxfixes3, libxext6, libxrandr2, libxss1, libstdc++6, libgcc-s1, libexpat1, libvulkan1, util-linux, mount, iproute2, nftables, slirp4netns, lxc, kmod, curl, python3, default-jre-headless (>= 2:1.17), systemd, patchelf (>= 0.18), libwebkit2gtk-4.1-0, libgtk-3-0, libglib2.0-0, libjavascriptcoregtk-4.1-0, libsoup-3.0-0, libpango-1.0-0, libcairo2, libgdk-pixbuf-2.0-0, libayatana-appindicator3-1 | libappindicator3-1
+Recommends: adb
+Filename: pool/main/a/anvildroid-controller/anvildroid-controller_0.1.13_amd64.deb
+Size: 27004720
+MD5sum: 238aca96fc2832ef79545da2b9d61ee4
+SHA1: a71f93723b3a93aa4190cf894d1ea41646450997
+SHA256: 30a3b929cf4296e4d32f1b235457f1697b349c19e6fddd262112c73d9d6810c6
 Section: misc
 Priority: optional
 Description: AnvilDroid GUI, CLI and Android runtime controller
