@@ -4,41 +4,41 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Sat, 14 Nov 2026 09:29:58 +0000
+Date: Fri, 20 Nov 2026 10:41:34 +0000
 Description: AnvilDroid — Waydroid manager for Linux
 Label: AnvilDroid
 Origin: AnvilDroid
 Suite: stable
 MD5Sum:
- f76b57496ff00475542007eccca829a6              199 Release
- 03ff847602eaa4da397fc70970cb69f5             2282 main/binary-amd64/Packages
- deae81dfe36dd575feac60cd35d742a5              827 main/binary-amd64/Packages.gz
+ a6558a222a3e660484b0b08be6a45d4a              199 Release
+ 02d78472c3dc9d36e649d5c6ed8854c8             3423 main/binary-amd64/Packages
+ b696c2b76a06d1b73c109db6affd0492              944 main/binary-amd64/Packages.gz
 SHA1:
- ccbf03f222e65c6e3be42b293ddc7706df809e3f              199 Release
- 471ae961b1158aded1ba918e75af762ebd831f72             2282 main/binary-amd64/Packages
- 328be7e529d901d1a78623768c66f091a3f06bb8              827 main/binary-amd64/Packages.gz
+ 218557111abdfd8ca2ddd323c3a26be936958113              199 Release
+ d15281c7443ed4721d9437bfd55c89feae31159f             3423 main/binary-amd64/Packages
+ 7a41b4390824423bd8bc547b6bfbdaf1cdac8759              944 main/binary-amd64/Packages.gz
 SHA256:
- 33c665df834246f0c5abef8222db134f3f4b3ef88d24cf7ed78fea15bf286542              199 Release
- 462c67453e50f61d36cf4bc8915e9a95a92cf04c15bb3ea025abf98fb372e57a             2282 main/binary-amd64/Packages
- 115501615fa9e7e59e4166d0b64cc3515783eb4e8156c0cae429c4c8e5ce444d              827 main/binary-amd64/Packages.gz
+ 496559e6ba3d9dee48ad17e21d150accc884aa008532bbd14e13af9769a8c8dc              199 Release
+ d222daba7fdc8c161d42f0767b90dfaa3c6bfe8c06bf88c2e8e6bd251238c330             3423 main/binary-amd64/Packages
+ c348b3d050eab388e0122e627142ce850b157de39eb60510a5e39852a91206ae              944 main/binary-amd64/Packages.gz
 SHA512:
- 862b99257ed24158e79ec8a5c894cdca9b9cc09e741f65e8c0dfc7103e1ea2624fc9e2c6e618b4bcf4e674ceba5b81044b3073bde53c70ef2bc37d57b7271978              199 Release
- ecfe228fd749a70311cf2bfc47630a2e957e9bfc74b0b23392fa4481167cd23a69cd5845ba0550f98adfe3fc0c0d9ac3cfdb9079a5331a792f01f5f89178cac3             2282 main/binary-amd64/Packages
- 215bf13cf94f46ac7c4afdb8a16493f8ce4341b7cb92cd7d2e827bf5a2e7105421b907858085c302e83750e500f9f90a7da1c88ea0af84df5173ed280b4ecfb1              827 main/binary-amd64/Packages.gz
+ 88bb6064ffe0d78da504f9cd56f2a272421f5039d13d63814e44f513b52a2fee70e31279d855d2452b1c5d17ff81b92d665906025c85244bf16276b5afbd3818              199 Release
+ 21595eabe02aeb21850c47925c059a6287d884f58756cf6513966d1ca309abac8f4b658270aedefb5ecc64d4032add6ea835fa3abcd98ec7715cdf7ae0f0bfe4             3423 main/binary-amd64/Packages
+ a25359eb9691d7b1770baea8fc18c0d26c2912cf46a29ba5ec01a999613d1216a419b6a03f7d5414ea2e13d83a0b72c03617397f951c0c2419106c064a90f5ce              944 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJIBAEBCgAyFiEEV9IGoVl2ekUJmC5+KaCOQ0c97jIFAmr4KhYUHGNvbGx5bjA5
-NEBnbWFpbC5jb20ACgkQKaCOQ0c97jKmOxAAq6L/7vOhiUTpoEHWT/og685/RGrG
-HI1Rady4XrUfJJgByCUE79Zq8libYN8PwcrfJvTqPDhtzrH7q4++Y040+038ibHH
-6EmFrPS6LOf9Biwb16SS2peZJ9+f74nYlZITc7W2MeYI1FvYFWDYIU9fMNvsCESQ
-83AP3MmJ5RLH3+IowqcZo/tqkLk/WAN746f901Of0XQ4rkk6DHd+0l9YCbqrXogC
-LJ/trJFaxxuPX5EyIdOxyERLtTKLYlFPTcxIN9Thwke0Nyt+59uUoM23266kskUo
-Hm9W2mQ4ViCiRLLEP/94UACIE8p6rUXT/q5DXCjN2f43Tz1OCelPJKM89hT3zTWT
-DKRgt8xx0loeMAkpOQDhYVl8ABtUmHccZwVivr6Jr1IVS8ASYC14QdzJNXbQnQGJ
-GRiG/MO6Q1Yfi6vus+CQKdSE/7fsScROpT7+TCteWhFq7m8yXAzyMNtUiG4dLLtN
-5iqZcWXFQrjTXbMn79IXhDlnn2Ba68/3u0zX1KLqIuBA83ZBFWBcvGHJzPKZtlWl
-9uXfMW1OjqQaZ0v+ju8NKWqRs6DSKVLetcM7dZEmCXd8IdOAHMANfumsC221HS8C
-ft1OSQJ7AXa8YUD3SgpHgOuqItCMZMGWcJxJTzIKQPv5M13TeRTyNf37pBOTZpgI
-jVuSbC/BpyreDfc=
-=jFdR
+iQJIBAEBCgAyFiEEV9IGoVl2ekUJmC5+KaCOQ0c97jIFAmsAI94UHGNvbGx5bjA5
+NEBnbWFpbC5jb20ACgkQKaCOQ0c97jI4sRAAmNgTjpBG3+PpVlBMUUAYYEvFz9zf
+QNFhGmbHXKWq6qx6Qg+xEy7xcBslYt1fjGWJgNywsuEluHJKTVh5Pb4i9dEjt/a1
+qgt01a0ePU+y/XYO/+RgYOhDs41y23sJQoDktEMBt+TYqV51UhplkkaI+G9LAlxD
+ThSetDiCIRQ19ZMaaLCBM8oKkrayWeFjrWHFgWs5Sf0LoNcE3w12bSQsYYGhOKzv
+zTYdQ06q3SKC6ltzGu/B7tFC66MT7tv0u494IIRLOsKdn0W0Jdm2Ga7SgDw1mVzq
+uVsyE4XSi5k7q08qtDc5h4lS7WABbVvsRv+XCHwf/keH6IWpNrZBgUv9FMTJ/XCI
+R0gJbJdveFP31q9xDjpq7xETNULCN2ZlraF+mnzbciozyPoWbriskW9oJdiCvbmF
+SZX9L0Ltncz9jxMfxIi9kQo2rCOe9nRTqNvv8Ue8+qlqkIeZHmON52jSK4FyzGIg
+tmV28O1r9rYnyd0Zag8T6luj4DhLyR1szsNO6VnbhzVDAVqQGY4nUgadn6NFKRSo
+/R2l1XEVQHg4lsB5aYkyByGXT8iHp1qS522dyVoC6NrKzbBY2Lufq/1u2DAOC++n
+6A7bWr6Zf9TUzEIQtfwPl8EN83kEvZ7eioQI3W/go0JYpyOOILJhWkAeA6rkix52
+guguWETIUw3NA4U=
+=oWXy
 -----END PGP SIGNATURE-----
